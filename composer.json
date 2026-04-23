@@ -1,0 +1,7 @@
+{
+    "name": "digno666/sistema-login",
+    "description": "Sistema de login con vulnerabilidades para pruebas de Aikido",
+    "require": {
+        "php": ">=7.4"
+    }
+}
